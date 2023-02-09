@@ -131,3 +131,6 @@ dmypy.json
 
 #VScode
 *.code-workspace
+
+#huge data
+/data/Taxi_Trip_Data.csv
