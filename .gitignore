@@ -134,3 +134,6 @@ dmypy.json
 
 #huge data
 /data/Taxi_Trip_Data.csv
+
+#huge output
+/output/taxi.parquet
