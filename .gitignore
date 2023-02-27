@@ -137,9 +137,7 @@ dmypy.json
 
 #huge output
 output
-/output/taxi.parquet
-ouput/*.parquet
-/output/inegi.parquet
+output/inegi.parquet
 
 #answers
 respuestas
