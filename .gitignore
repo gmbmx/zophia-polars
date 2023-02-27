@@ -136,5 +136,11 @@ dmypy.json
 /data/Taxi_Trip_Data.csv
 
 #huge output
+output
 /output/taxi.parquet
 ouput/*.parquet
+/output/inegi.parquet
+
+#answers
+respuestas
+
