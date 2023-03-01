@@ -135,6 +135,9 @@ dmypy.json
 #huge data
 /data/Taxi_Trip_Data.csv
 
+#temporary files
+data/csv
+
 #huge output
 output
 output/inegi.parquet

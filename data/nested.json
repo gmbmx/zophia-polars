@@ -1,0 +1,11 @@
+{
+    "company": "Zophia",
+    "location": "Mexico",
+    "info": {
+        "founder": "Guillermo",
+        "contacts": {
+            "email": "contact@zophia.io",
+            "tel": "9876543210"
+        }
+    }
+}
